@@ -1,4 +1,3 @@
-﻿# Covid_data_Analysis
 # COVID-19 Data Analysis Project
 
 ## 📊 Overview
